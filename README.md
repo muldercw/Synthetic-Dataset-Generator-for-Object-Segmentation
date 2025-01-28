@@ -1,5 +1,7 @@
 # Synthetic Dataset Generator for Object Segmentation
 This script generates synthetic datasets for object segmentation tasks by combining extracted objects from input images with randomly generated backgrounds. It produces augmented images along with COCO-compliant annotations.
+![test2](https://github.com/user-attachments/assets/ee086a80-5033-4b74-b1cd-8574aae663af)
+![synthetic_15](https://github.com/user-attachments/assets/d154c1fc-92e6-4859-ba5d-acb8f1b7ac79)
 
 # Features
 Random Background Generation: Creates unique, multi-colored backgrounds.
